@@ -4,7 +4,7 @@ An extension for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOM
 
 ## Installation
 
-The extension can be installed directly from within the **Extensions** tab within the Webui.
+<!-- The extension can be installed directly from within the **Extensions** tab within the Webui. -->
 
 Manual install from within the webui directory:
 
