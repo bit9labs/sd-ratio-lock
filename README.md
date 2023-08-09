@@ -7,13 +7,13 @@ An extension for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOM
 
 ## Installation
 
-<!-- The extension can be installed directly from within the **Extensions** tab within the Webui. -->
+The extension can be installed directly from within the **Extensions** tab within the Webui.
 
 Manual install from within the webui directory:
 
 	git clone https://github.com/bit9labs/sd-ratio-lock extensions/sd-ratio-lock
 
-and restart your stable-diffusion-webui, then you can see the new tab "Masonry Browser".
+and restart your stable-diffusion-webui. The lock ratio dropdown will appear under the width and height sliders.
 
 ## Use
 
